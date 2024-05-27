@@ -2,9 +2,9 @@
 title: Diplom
 timezone: UTC
 collections:
+  posts:
+    title: Main
+    output: true
   uploads:
     title: Uploads
-    output: true
-  posts:
-    title: index
     output: true
