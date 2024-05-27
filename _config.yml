@@ -1,0 +1,10 @@
+---
+title: Diplom
+timezone: UTC
+collections:
+  uploads:
+    title: Uploads
+    output: true
+  posts:
+    title: index
+    output: true
